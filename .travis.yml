@@ -3,7 +3,7 @@ addons:
     - pandoc
 env:
   global:
-    - ENCRYPTION_LABEL=2628f5796ab9
+  - ENCRYPTION_LABEL=2628f5796ab9
   - COMMIT_AUTHOR_EMAIL=byronelenilson@gmail.com
   - CXX=g++-4.8
 script:
