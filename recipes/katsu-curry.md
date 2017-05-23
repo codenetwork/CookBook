@@ -1,6 +1,6 @@
 # Tofu Katsu Curry
 
-![Source](https://www.japancentre.com/en/recipes/1568-tofu-katsu-curry)
+[Source](https://www.japancentre.com/en/recipes/1568-tofu-katsu-curry)
 
 A good alternative to our non meat friends out there. Crispy tofu with that famous curry sauce and rice.
 
