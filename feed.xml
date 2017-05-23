@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Network's Recipes</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>For the finest food connoisseur only.</description>
+    <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Tofu Katsu Curry</title>
+      <link>http://localhost:8080/articles/katsu-curry/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/katsu-curry/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.japancentre.com/en/recipes/1568-tofu-katsu-curry&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A good alternative to our non meat friends out there. Crispy tofu with that famous curry sauce and rice.&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;h3 id=&quot;curry-sauce&quot;&gt;Curry Sauce&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;30ml of vegetable oil&lt;/li&gt;
+&lt;li&gt;1 white onion, finely sliced&lt;/li&gt;
+&lt;li&gt;1 tsp fresh ginger, grated&lt;/li&gt;
+&lt;li&gt;2 garlic cloves, minced&lt;/li&gt;
+&lt;li&gt;1 tbsp of mild curry powder&lt;/li&gt;
+&lt;li&gt;2 tbsp of plain flour&lt;/li&gt;
+&lt;li&gt;400ml kombu dashi&lt;/li&gt;
+&lt;li&gt;2 1/2 tbsp of tamari soy sauce&lt;/li&gt;
+&lt;li&gt;1 tbsp of honey&lt;/li&gt;
+&lt;li&gt;1 tsp rice vinegar&lt;/li&gt;
+&lt;li&gt;2 tsp garam masala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;tofu-katsu&quot;&gt;Tofu Katsu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;300g of firm tofu&lt;/li&gt;
+&lt;li&gt;1 large egg&lt;/li&gt;
+&lt;li&gt;125g of plain flour&lt;/li&gt;
+&lt;li&gt;100g of panko breadcrumbs&lt;/li&gt;
+&lt;li&gt;pinch of salt and pepper&lt;/li&gt;
+&lt;li&gt;vegetable oil, for frying&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;method&quot;&gt;Method&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Start by making the curry sauce. Heat the vegetable oil in a pan over a medium heat, add the onion, garlic and 
+ginger and sauté until tender, for approximately 2–3 minutes.&lt;/li&gt;
+&lt;li&gt;Add the curry powder and stir until fragrant. Blend in the flour and cook for 2 minutes.&lt;/li&gt;
+&lt;li&gt;Slowly pour in the dashi, soy sauce and honey. Simmer, stirring occasionally until the sauce thickens.&lt;/li&gt;
+&lt;li&gt;Stir in the rice vinegar and garam masala, cook for a minute and check for salt. Keep warm until ready to serve.&lt;/li&gt;
+&lt;li&gt;Cook the rice according to packet instructions.&lt;/li&gt;
+&lt;li&gt;For the crispy tofu, lay a clean tea towel on a work surface and turn the tofu onto it. Slice into 1cm thick
+slices, dry the pieces well and sprinkle with salt. Leave on a clean tea towel for 10 minutes.&lt;/li&gt;
+&lt;li&gt;Place the flour on a plate and season it with a pinch of salt and pepper. In a wide soup plate, add the egg
+and beat with a pinch of salt. Place the breadcrumbs in a large, shallow dish.&lt;/li&gt;
+&lt;li&gt;Roll each slice of tofu in the flour, then the egg, then the breadcrumbs to coat.&lt;/li&gt;
+&lt;li&gt;In a large frying pan, heat enough oil to fill it about 1.5cm deep.&lt;/li&gt;
+&lt;li&gt;Shallow fry the tofu for around 2 minutes on each side or until golden, then place on kitchen paper to drain.&lt;/li&gt;
+&lt;li&gt;To serve, place some rice in each bowl, place the crispy tofu on top and pour over the curry sauce. Serve with sliced spring onions or shallots and some julienned carrot.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>Peanut Butter Cookies</title>
+      <link>http://localhost:8080/articles/peanut-butter-biscuits/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/peanut-butter-biscuits/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;a href=&quot;http://www.taste.com.au/recipes/peanut-butter-cookies/0c5feffc-4217-4629-882b-d182efe3752a&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It’s cookies, but they taste like peanuts. Whom this.&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;125g butter or margarine, at room temperature&lt;/li&gt;
+&lt;li&gt;275g (1 cup) crunchy peanut butter&lt;/li&gt;
+&lt;li&gt;200g (1 cup, firmly packed) brown sugar&lt;/li&gt;
+&lt;li&gt;1 egg&lt;/li&gt;
+&lt;li&gt;260g (1 3/4 cups) plain flour&lt;/li&gt;
+&lt;li&gt;1/2 teaspoon baking powder&lt;/li&gt;
+&lt;li&gt;110g (3/4 cup) unsalted peanuts, roughly chopped&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Preheat oven to 180°C. Line a baking tray with non-stick baking paper.&lt;/li&gt;
+&lt;li&gt;Beat the butter or margarine and peanut butter in a mixing bowl with electric beaters until 
+creamy. Add the brown sugar and beat until pale. Add the egg and beat until combined. Sift the 
+plain flour and baking powder together. Use a wooden spoon to mix the dry ingredients and peanuts 
+into the peanut butter mixture.&lt;/li&gt;
+&lt;li&gt;Lightly flour your hands then roll tablespoonfuls of the mixture into balls and place about 
+4cm apart on prepared baking tray. Flatten each ball to about 5cm in diameter and 1 cm thick. 
+Bake in preheated oven for 15 minutes or until golden and cooked through. Stand on baking tray 
+for 5 minutes before transferring to a wire rack to cool. Repeat with the remaining mixture. 
+Store in an airtight jar for up to 1 week.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+  </channel>
+</rss>
