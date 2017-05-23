@@ -1,4 +1,7 @@
-language: r
+addons:
+  apt:
+    packages:
+    - pandoc
 env:
   global:
   - ENCRYPTION_LABEL=2628f5796ab9
