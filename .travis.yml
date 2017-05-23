@@ -1,5 +1,4 @@
 language: r
-pandoc_version: 1.16
 env:
   global:
   - ENCRYPTION_LABEL=2628f5796ab9
