@@ -12,7 +12,7 @@ SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
 SHA=`git rev-parse --verify HEAD`
 
 function prepareDocs {
-  make all
+  wintersmith build
 }
 
 # We only deploy when master changes

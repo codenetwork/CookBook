@@ -1,8 +1,7 @@
 # Hide Build
-/build/*
-!/build/.keep
+/node_modules/
+/build/
 
 # Hide Deploy
 deploy_key
 deploy_key.pub
-

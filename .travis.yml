@@ -1,3 +1,6 @@
+language: node_js
+node_js:
+- stable
 addons:
   apt:
     packages:
@@ -8,7 +11,7 @@ env:
   - COMMIT_AUTHOR_EMAIL=byronelenilson@gmail.com
   - CXX=g++-4.8
 script:
-- make all
+- wintersmith build
 after_success:
 - bash ./deploy.sh
 addons:
@@ -19,4 +22,5 @@ addons:
     - g++-4.8
 before_install:
 - openssl aes-256-cbc -K $encrypted_2628f5796ab9_key -iv $encrypted_2628f5796ab9_iv -in deploy_key.enc -out deploy_key -d
-
+before_script:
+  - npm install wintersmith -g

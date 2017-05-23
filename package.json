@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "wintersmith": "^2.3.6"
+  },
+  "dependencies": {
+    "moment": "^2.18.1",
+    "underscore": "^1.8.3"
+  }
+}

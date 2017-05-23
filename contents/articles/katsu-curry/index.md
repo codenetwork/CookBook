@@ -1,4 +1,9 @@
-# Tofu Katsu Curry
+---
+title: Tofu Katsu Curry
+author: byronmejia
+date: 2017-05-24
+template: article.jade
+---
 
 [Source](https://www.japancentre.com/en/recipes/1568-tofu-katsu-curry)
 

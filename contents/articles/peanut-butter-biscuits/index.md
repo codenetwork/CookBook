@@ -1,4 +1,9 @@
-# Peanut Butter Cookies
+---
+title: Peanut Butter Cookies
+author: byronmejia
+date: 2017-05-24
+template: article.jade
+---
 
 [Source](http://www.taste.com.au/recipes/peanut-butter-cookies/0c5feffc-4217-4629-882b-d182efe3752a)
 
