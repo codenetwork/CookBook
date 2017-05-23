@@ -3,7 +3,7 @@ addons:
     - pandoc
 env:
   global:
-  - ENCRYPTION_LABEL=cecc20951448
+    - ENCRYPTION_LABEL=2628f5796ab9
   - COMMIT_AUTHOR_EMAIL=byronelenilson@gmail.com
   - CXX=g++-4.8
 script:
@@ -19,6 +19,5 @@ addons:
     packages:
     - g++-4.8
 before_install:
-- openssl aes-256-cbc -K $encrypted_cecc20951448_key -iv $encrypted_cecc20951448_iv
-  -in deploy_key.enc -out deploy_key -d
+- openssl aes-256-cbc -K $encrypted_2628f5796ab9_key -iv $encrypted_2628f5796ab9_iv -in deploy_key.enc -out deploy_key -d
 
