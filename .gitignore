@@ -1,3 +1,8 @@
+# Hide Build
 /build/*
 !/build/.keep
+
+# Hide Deploy
+deploy_key
+deploy_key.pub
 
