@@ -9,19 +9,19 @@ block content
         p.date
           span= moment.utc(article.date).format('DD. MMMM YYYY')
         h2
-          a(href=article.url)= article.title
+          a(href='/CookBook' + article.url)= article.title
       section.content
         if article.intro.length > 0
           != article.intro
         if article.hasMore
           p.more
-            a(href=article.url) more
+            a(href='/CookBook' + article.url) more
 
 block prepend footer
   div.nav
     if prevPage
-      a(href=prevPage.url) &laquo; Newer
+      a(href='/CookBook' + prevPage.url) &laquo; Newer
     else
-      a(href='/archive.html') &laquo; Archives
+      a(href='/CookBook/archive.html') &laquo; Archives
     if nextPage
-      a(href=nextPage.url) Next page &raquo;
+      a(href='/CookBook' + nextPage.url) Next page &raquo;
