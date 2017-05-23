@@ -7,9 +7,7 @@ env:
   - COMMIT_AUTHOR_EMAIL=byronelenilson@gmail.com
   - CXX=g++-4.8
 script:
-- yarn test
-- yarn lint
-- yarn docs:api
+- make all
 after_success:
 - bash ./deploy.sh
 addons:
